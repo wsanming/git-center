@@ -6,5 +6,6 @@ public class GitFirst {
         System.out.println("ddd");
         //test git
         System.out.println("成功了吗？");
+        System.out.println("来了");
     }
 }
